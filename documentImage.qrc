@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MDI-Image/copy.png</file>
+        <file>MDI-Image/cut.png</file>
+        <file>MDI-Image/new.png</file>
+        <file>MDI-Image/open.png</file>
+        <file>MDI-Image/paste.png</file>
+        <file>MDI-Image/save.png</file>
+        <file>MDI-Image/saveas.png</file>
+    </qresource>
+</RCC>

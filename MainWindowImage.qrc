@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MainOperator-Image/ARM6410.jpg</file>
+        <file>MainOperator-Image/Exit.jpg</file>
+        <file>MainOperator-Image/logRecord.jpg</file>
+        <file>MainOperator-Image/networkConfig.jpg</file>
+        <file>MainOperator-Image/serialConfig.jpg</file>
+        <file>MainOperator-Image/servo.jpg</file>
+        <file>MainOperator-Image/acceleration.jpg</file>
+        <file>MainOperator-Image/angular.jpg</file>
+        <file>MainOperator-Image/cameraConfig.jpg</file>
+        <file>MainOperator-Image/green.jpg</file>
+        <file>MainOperator-Image/gyration.jpg</file>
+        <file>MainOperator-Image/new.png</file>
+        <file>MainOperator-Image/red.jpg</file>
+    </qresource>
+</RCC>
